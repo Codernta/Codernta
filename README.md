@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Codernta
-- 👀 I’m interested in Flutter Mobile Application Development.
+- 👋 Hi, I’m @Codernta  🧑
+- 👀 I’m interested in Flutter Mobile Application Development.📱
 - 🌱 I’m currently learning AI in application development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ta007nithin@gmail.com
